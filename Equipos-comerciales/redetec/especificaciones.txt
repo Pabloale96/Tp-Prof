@@ -1,0 +1,31 @@
+
+Precio: US $ 3500
+
+**Link: https://redetec.com/products/protocycler
+
+-Performance:
+	- Soporta PLA,ABS,PETG,HIPS,Nylon 12 y mas (PLA y ABS son de impresora 3d)
+	- Tolerancia del diametro: +/- 0.05 mm
+	- Throughput: 500g/hr (maximo)
+	- Electrical Usage: 90-120 W (promedio)
+	- Dimensiones: 15''x14''x9''
+	- Peso: 20 kgs
+
+-Extruder:
+	- Patente MixFlow Techonology
+	- 300 W Heater
+	- 250 °C temperatura maxima.
+	- 1000 oz-in Auger Torque
+	- Ceramic Stainless insulator
+
+-Sistema de Control:
+	- Twin Optical Diameter Measurement Sensors
+	- 0.01mm Measurement Precision
+	- High Power Cooling Fan
+	- Intelligent Diameter Control System
+	- Integrated Spooler with Distributed Spooling
+
+-Grinder:
+	- CNC Machined Steel
+	- High Torque 32:1 Gearing System
+	- Safety interlock System
