@@ -1,0 +1,12 @@
+## Donde comprar:
+
+https://articulo.mercadolibre.com.ar/MLA-896434512-modulo-sensor-ccd-arduino-tsl1401-lineal-array-_JM#position=15&type=item&tracking_id=0b9536ca-6710-4760-8de5-5a74f6af3deb
+
+Precio: $6000 arg -----> ver si se consigue mas barato
+
+Creo que conviene tener dos para cada uno de los ejes pero con uno deberia bastar.
+
+## Explicación y diferencia con una CCD Area:
+
+link: https://programmerclick.com/article/24961539656/
+
