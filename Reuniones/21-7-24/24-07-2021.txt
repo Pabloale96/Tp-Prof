@@ -1,0 +1,40 @@
+*mecanica del trabajo. Opinion de la parte de un departamento de mecanica. 
+
+*Carga horaria ---- presentar a la comision curricular
+*Profundidad depende del trabajo- tiene diferentes etapas 
+*Poner intercambios - la facultad tienen una trazabilidad
+
+*hacer el gantt el tp prof, no del proyecto
+*cc pide las etapas del proyecto, evalua el estudio academico entonces tenemos que aprender las cosas.
+
+*recorte que hacemos,comercialmente hay que ordenar las espes (tanto diametro como temperatura)
+*Explicar mejor lo de bajo costo, muy amplio.
+*Analizar el tema economico, ver que onda con el tema del precio y todo eso
+*Ver el tema de los espes, especificar bien porque cada cosa.
+*Vender se necesita cumplir ciertas normas, vamos a tener que ver eso.
+*Especificar para quien es el producto. Ver que podemos hacer para poder competir con temas de espes.
+*Ver tema de protecciones, tanto de calor como electrico. Ver normas para esto.
+
+*Prototipo con edu ciaa y el diseño otra cosa.
+*Ordenar las cosas que tenemos.
+*Especificar cuando empieza a generar el producto exacto. Por ejemplo, si los primeros 30 min se pone en regimen, no podemos parar a la hora porque se pierde dinero. Aclarar.
+*Tiene que ser un negocio.
+
+*Normas y notas de aplicacion, dividir equipos comerciales.
+*Organizar tema de carpetas, normas y espescificaciones.
+*Ordenar el git.
+*Poner categoria para ver todo.
+
+* 3 documentos, organizacion de carpetas(git como ordenar la informacion), gant y del proyecto.
+
+*Metodologia de control de proyectos. Planificacion de 5 estapas
+	-analisis
+	-diseño funcional y tecnico
+	-planificacion tecnica (proyecto)
+	-Factibilidad economia (VAR, TIR. Basados del tiempo gastado)
+	-Desarrollo del producto.
+		-- documentacion del producto (aclarar como seria el proyecto final, ejemplo no usar edu ciaa)
+		-- prototipo (para defender la tesis)
+
+*Espacio para ir viendo los entregables, otra forma de entregar las cosas. Espacio, un campus.
+
